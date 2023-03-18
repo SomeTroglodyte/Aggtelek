@@ -15,6 +15,11 @@
             "Tile provides yield without assigned population",
             "Grants [Quick Study] ([[+50]% XP gained from combat]) to adjacent [Land] units for the rest of the game",
             "Grants [Sentry] ([[+1] Sight]) to adjacent [Land] units for the rest of the game",
+            "[+1 Happiness] for each adjacent [Forest]",
+            "[-1 Happiness] for each adjacent [Mine]",
+            "[+1 Food] for each adjacent [Camp]",
+            "[+1 Gold] for each adjacent [Trading post]",
+            "[+4 Science] for each adjacent [Academy]"
         ],
 		"turnsInto": "Mountain",
 		"impassable": true,
@@ -26,5 +31,5 @@
             {},
             {"text":"Beware the sausage stands!","color":"#ff8040","size":12}
         ]
-	},
+	}
 ]
