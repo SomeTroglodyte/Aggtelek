@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Aggtelek",
+		"type": "NaturalWonder",
+        "happiness": 3,
+        "science": 2,
+        "gold": 2,
+		"occursOn": ["Hill","Forest"],
+		"uniques": [
+            "Must be adjacent to [6] [Land] tiles",
+            "Must be adjacent to [3] to [5] [Hill] tiles",
+            "Must be adjacent to [0] [Desert] tiles",
+			"Must be adjacent to [0] [Tundra] tiles",
+			"Must be adjacent to [0] [Snow] tiles",
+            "Tile provides yield without assigned population",
+            "Grants [Quick Study] ([[+50]% XP gained from combat]) to adjacent [Land] units for the rest of the game",
+            "Grants [Sentry] ([[+1] Sight]) to adjacent [Land] units for the rest of the game",
+        ],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 900000,
+        "civilopediaText":[
+            {"extraImage":"WonderImages/Aggtelek","imageSize":480},
+            {"text":"While little know world-wide, the karst region of Aggtelek has nevertheless some uniquely beautiful landscapes and underground marvels."},
+            {},
+            {"text":"Beware the sausage stands!","color":"#ff8040","size":12}
+        ]
+	},
+]

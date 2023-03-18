@@ -1,0 +1,20 @@
+
+game.png
+size: 1024, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/Aggtelek
+  rotate: false
+  xy: 607, 22
+  size: 120, 127
+  orig: 120, 127
+  offset: 0, 0
+  index: -1
+WonderImages/Aggtelek
+  rotate: false
+  xy: 4, 4
+  size: 595, 145
+  orig: 595, 145
+  offset: 0, 0
+  index: -1
