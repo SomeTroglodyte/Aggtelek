@@ -1,7 +1,7 @@
 # Aggtelek
 Another joke Mod for Unciv
 
-This exists for one reason - issue [#8944](https://github.com/yairm210/Unciv/issues/8944).
+This exists for one reason - issue [#8944](https://github.com/yairm210/Unciv/issues/8944). Thank you.
 
 ### Credits
 Images from:
